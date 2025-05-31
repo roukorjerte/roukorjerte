@@ -39,7 +39,7 @@ A little virtual pet in a desktop app, built in C# with WPF. Has needs, expressi
 - I learn fast, especially when I'm excited about something weird.
 - I enjoy building things that make people smile — or raise an eyebrow.
 - I used to work in QA, so I know how to break stuff *and* fix it.
-- I like bold visuals, surreal atmospheres, and slightly cursed user experiences.
+- I like bold visuals, surreal atmospheres, and passionate about horror stories.
 
 ---
 
@@ -52,7 +52,7 @@ A little virtual pet in a desktop app, built in C# with WPF. Has needs, expressi
 ---
 ## 📝 Practicing my writing skills about my experience as junior developer:
 
-- [Telegram Blog] (https://t.me/bugs_n_features)
+- Telegram Blog (https://t.me/bugs_n_features)
 
 ---
 
