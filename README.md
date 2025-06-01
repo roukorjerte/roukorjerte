@@ -10,7 +10,7 @@ I’m currently deepening my knowledge of JavaScript and React, building real-wo
 
 - **Frontend:** JavaScript, HTML, CSS, React, Bootstrap, EJS
 - **Backend:** Node.js, Express
-- **Extras:** Git, Figma, C# (WPF), Markdown, basic APIs
+- **Extras:** Git, Figma, Windows Desktop (WPF), Markdown, basic APIs
 - **Current goal:** Integrating databases and polishing my first browser extension!
 
 ---
