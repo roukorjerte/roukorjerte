@@ -1,6 +1,6 @@
 # Hi there, I'm Diana 👋
 
-I'm a frontend developer with a love for playful interfaces, eerie aesthetics, and the occasional prank. I build things that are both functional and fun — and I *do* finish what I start.
+I'm a frontend developer with a love for playful interfaces, eerie aesthetics, and the occasional prank. I build things that are both functional and fun.
 
 I’m currently deepening my knowledge of JavaScript and React, building real-world projects, and exploring how user experience can be weird, clever, or even a little unsettling.
 
